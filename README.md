@@ -18,7 +18,7 @@ Advanced CRUD with Firebase
 
 ![18](https://github.com/BilalSevinc16/Firebase_CRUD_Advanced/assets/146417248/129cf12f-1307-4136-a8f7-c4cf91d7c2cc)
 
-![2](https://github.com/BilalSevinc16/Firebase_CRUD_Advanced/assets/146417248/d52d80d7-39cb-49a2-8f21-f54929e7060a)
+![1](https://github.com/BilalSevinc16/Firebase_CRUD_Advanced/assets/146417248/4533ab2b-7f41-487f-a721-f7fdcc377c59)
 
 ![2](https://github.com/BilalSevinc16/Firebase_CRUD_Advanced/assets/146417248/a614287b-cb96-41a0-92f6-b02327f82a83)
 
